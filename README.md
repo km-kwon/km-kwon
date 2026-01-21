@@ -17,15 +17,13 @@
 ![ISO26262](https://img.shields.io/badge/ISO_26262-ASIL--D-critical?style=for-the-badge)
 
 ### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 ### 🧰 Tools & Frameworks
-![CANoe](https://img.shields.io/badge/CANoe-00629B?style=for-the-badge)
-![Vector](https://img.shields.io/badge/Vector-0052CC?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -52,11 +50,8 @@
 
 ## 📫 Contact
 <p align="left">
-  <a href="mailto:your@email.com">
+  <a href="mailto:lanos5019@ajou.ac.kr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-id">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
