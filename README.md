@@ -9,7 +9,7 @@
 React와 TypeScript를 중심으로 산업용 분석 도구를 개발합니다.  
 화면에 보이는 결과뿐 아니라 성능 병목의 원인, 시스템의 운영 조건, 코드를 이어받을 사람의 경험까지 살핍니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://km-kwon.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.lanos0609.workers.dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanos0609@gmail.com)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~kwon-kyoungmin)
 
